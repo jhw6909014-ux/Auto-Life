@@ -1,7 +1,7 @@
 name: Auto-Life
 on:
   schedule:
-    - cron: '58 */4 * * *'
+    - cron: '53 */4 * * *'
   workflow_dispatch:
 
 jobs:
